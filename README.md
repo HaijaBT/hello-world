@@ -1,12 +1,14 @@
 # hello-world
 Learning to use GitHub with Hello World Tutorial
 
-This is my first time using GitHub. I hope to learn:
+This is my first time using GitHub. I hope to learn very well:
 
 1. how to use GitHub
 2. Why I am using GitHub
 
+
 *Information Theory*, **Network IT**, ***Cooperative IT***
+*NNC*
 
 All are available on [LiNKS Lab](http://sites.tufts.edu/links/)
 
